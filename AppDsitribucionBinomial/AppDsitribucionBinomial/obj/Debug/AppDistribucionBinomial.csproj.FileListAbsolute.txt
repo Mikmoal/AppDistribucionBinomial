@@ -1,0 +1,6 @@
+D:\Programación\Proyectos\AppDsitribucionBinomial\AppDsitribucionBinomial\bin\Debug\AppDsitribucionBinomial.exe.config
+D:\Programación\Proyectos\AppDsitribucionBinomial\AppDsitribucionBinomial\bin\Debug\AppDsitribucionBinomial.exe
+D:\Programación\Proyectos\AppDsitribucionBinomial\AppDsitribucionBinomial\bin\Debug\AppDsitribucionBinomial.pdb
+D:\Programación\Proyectos\AppDsitribucionBinomial\AppDsitribucionBinomial\obj\Debug\AppDsitribucionBinomial.exe
+D:\Programación\Proyectos\AppDsitribucionBinomial\AppDsitribucionBinomial\obj\Debug\AppDsitribucionBinomial.pdb
+D:\Programación\Proyectos\AppDsitribucionBinomial\AppDsitribucionBinomial\obj\Debug\AppDistribucionBinomial.csprojResolveAssemblyReference.cache
